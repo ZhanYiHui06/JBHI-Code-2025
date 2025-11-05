@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Figure.png" alt="Figure">
+  <img src="./Figure.png" alt="Figure" width="50%">
   <br>
   <b>Figure.</b> Visualization of Two Unresolved Challenges in Cervical Cell Detection: 1) Unmodeled Visual Correlation Information. 2) Lack of Uncertainty Estimation.
 </div>
