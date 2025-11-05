@@ -1,3 +1,11 @@
+<div align="center">
+  <img src="./Figure.png" alt="Figure">
+  <br>
+  <b>Figure.</b> Visualization of Two Unresolved Challenges in Cervical Cell Detection: 1) Unmodeled Visual Correlation Information. 2) Lack of Uncertainty Estimation.
+</div>
+
+---
+
 # Repository Notice
 All source code and datasets for this work have been fully prepared and will be released upon acceptance of the associated paper under an open-source license.
 
